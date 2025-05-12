@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/nitinjmv/Kubernetes/kind-argocd'
+    repoURL: 'https://github.com/nitinjmv/Kubernetes/tree/main/kind-argocd'
     targetRevision: HEAD
     path: manifests
   destination:
